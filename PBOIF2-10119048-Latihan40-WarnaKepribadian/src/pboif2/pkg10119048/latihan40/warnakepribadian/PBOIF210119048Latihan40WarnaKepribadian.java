@@ -8,6 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan Program Warna kepribadian.
  */
 public class PBOIF210119048Latihan40WarnaKepribadian {
 
@@ -38,6 +42,8 @@ public class PBOIF210119048Latihan40WarnaKepribadian {
         
         System.out.println("\n===HASIL TEST KEPRIBADIAN " + user.getNama() + "===");
         warna.tampilKepribadian(user.getWarna());
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }   
     
 }

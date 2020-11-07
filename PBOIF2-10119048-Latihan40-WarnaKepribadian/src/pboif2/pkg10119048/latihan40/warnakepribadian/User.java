@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan40.warnakepribadian;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Class user.
  */
 public class User {
     private String nama, warna;

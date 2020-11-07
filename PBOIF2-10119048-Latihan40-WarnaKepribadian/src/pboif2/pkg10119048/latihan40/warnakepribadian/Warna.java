@@ -10,6 +10,10 @@ import java.util.Map;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Class Warna
  */
 public class Warna {
     public static final String RESET = "\u001B[0m";
@@ -102,5 +106,7 @@ public class Warna {
             + " seringkali menutupi perasaannya,\n7. Terkadang bersikap"
             + " keras kepala dan angkuh."
         );
+        System.out.println("==========================================");
+        System.out.println("Developed by : Mochammad Faishal");
     }
 }
